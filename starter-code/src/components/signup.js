@@ -1,6 +1,7 @@
 import React from "react";
-
-
+import Navbar from './NavBar';
+import FormField from './FormField';
+import CoolButton from './CoolButton';
 class Signup extends React.Component {
   render() {
     return (
